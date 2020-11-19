@@ -1,0 +1,149 @@
+D:\VSProjects\PC_Builder\bin\Debug\PC_Builder.exe.config
+D:\VSProjects\PC_Builder\bin\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder\bin\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\bin\Debug\PC_Builder.exe.config
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\bin\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\bin\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\Documents\PC_Builder\obj\Debug\PC_Builder.pdb
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\bin\Debug\PC_Builder.exe.config
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\bin\Debug\PC_Builder.exe
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\bin\Debug\PC_Builder.pdb
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.exe
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.pdb
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.exe.config
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.pdb
+E:\PC_Builder\bin\Debug\PC_Builder.exe.config
+E:\PC_Builder\bin\Debug\PC_Builder.exe
+E:\PC_Builder\bin\Debug\PC_Builder.pdb
+E:\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+E:\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+E:\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+E:\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+E:\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+E:\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+E:\PC_Builder\obj\Debug\PC_Builder.exe
+E:\PC_Builder\obj\Debug\PC_Builder.pdb
+C:\Users\Akteur\source\repos\PC_Builder\bin\Debug\PC_Builder.exe.config
+C:\Users\Akteur\source\repos\PC_Builder\bin\Debug\PC_Builder.exe
+C:\Users\Akteur\source\repos\PC_Builder\bin\Debug\PC_Builder.pdb
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.exe
+C:\Users\Akteur\source\repos\PC_Builder\obj\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.exe.config
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.exe
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\bin\Debug\PC_Builder.pdb
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.Authorization.resources
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.MainForm.resources
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.MyMessage.resources
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.Properties.Resources.resources
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.exe
+C:\Users\Vitkovsky_35\source\repos\PC_Builder\obj\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_26мар\bin\Debug\PC_Builder.exe.config
+D:\VSProjects\PC_Builder_26мар\bin\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_26мар\bin\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.Authorization.resources
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.MainForm.resources
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.MyMessage.resources
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_26мар\obj\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\bin\Debug\PC_Builder.exe.config
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\bin\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\bin\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.Authorization.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.MainForm.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.MyMessage.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_30мар\obj\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_30мар\bin\Debug\PC_Builder.exe.config
+D:\VSProjects\PC_Builder_30мар\bin\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_30мар\bin\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.Authorization.resources
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.MainForm.resources
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.MyMessage.resources
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_30мар\obj\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\bin\Debug\PC_Builder.exe.config
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\bin\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\bin\Debug\PC_Builder.pdb
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.Authorization.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.MainForm.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.MyMessage.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.exe
+D:\profiles\Vitkovsky_35\source\repos\PC_Builder_31мар\obj\Debug\PC_Builder.pdb
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\bin\Debug\PC_Builder.exe.config
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\bin\Debug\PC_Builder.exe
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\bin\Debug\PC_Builder.pdb
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.Authorization.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.MainForm.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.MyMessage.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.Properties.Resources.resources
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.csproj.CoreCompileInputs.cache
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.exe
+\\rootstud\Profiles\students\GR_35\Артём Витковский\PC_Builder_31мар\obj\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_31мар\bin\Debug\PC_Builder.exe.config
+D:\VSProjects\PC_Builder_31мар\bin\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_31мар\bin\Debug\PC_Builder.pdb
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.csprojAssemblyReference.cache
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.Authorization.resources
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.MainForm.resources
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.MyMessage.resources
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.Properties.Resources.resources
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.csproj.GenerateResource.cache
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.exe
+D:\VSProjects\PC_Builder_31мар\obj\Debug\PC_Builder.pdb
